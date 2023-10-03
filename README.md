@@ -11,7 +11,7 @@ Covalent x Pennylane tutorial notebook for QSITE 2023 (at University of Toronto)
 Clone this repository and create the `conda` [environment](https://docs.anaconda.com/free/anaconda/install/index.html) from the `environment.yml` file:
 
 ```bash
-git clone <this-repo>
+git clone https://github.com/AgnostiqHQ/tutorials_covalent_qsite_2023.git
 cd tutorials_variational_rewinding/quantum_variational_rewinding
 conda env create -f environment.yml
 conda activate QVR
